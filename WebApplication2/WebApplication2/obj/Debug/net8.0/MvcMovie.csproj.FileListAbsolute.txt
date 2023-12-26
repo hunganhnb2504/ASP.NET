@@ -1,0 +1,8 @@
+E:\SEM3\asp.net\WebApplication2\WebApplication2\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache
+E:\SEM3\asp.net\WebApplication2\WebApplication2\obj\Debug\net8.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM3\asp.net\WebApplication2\WebApplication2\obj\Debug\net8.0\MvcMovie.AssemblyInfoInputs.cache
+E:\SEM3\asp.net\WebApplication2\WebApplication2\obj\Debug\net8.0\MvcMovie.AssemblyInfo.cs
+E:\SEM3\asp.net\WebApplication2\WebApplication2\obj\Debug\net8.0\MvcMovie.csproj.CoreCompileInputs.cache
+E:\SEM3\asp.net\WebApplication2\WebApplication2\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+E:\SEM3\asp.net\WebApplication2\WebApplication2\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cache
+E:\SEM3\asp.net\WebApplication2\WebApplication2\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cs
