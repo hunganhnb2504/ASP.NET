@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SEM3\\asp.net\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {}
+    "E:\\SEM3\\asp.net\\ASP.NET\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {}
   },
   "projects": {
-    "E:\\SEM3\\asp.net\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {
+    "E:\\SEM3\\asp.net\\ASP.NET\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SEM3\\asp.net\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "projectUniqueName": "E:\\SEM3\\asp.net\\ASP.NET\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
         "projectName": "WebApplication3",
-        "projectPath": "E:\\SEM3\\asp.net\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "projectPath": "E:\\SEM3\\asp.net\\ASP.NET\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\SEM3\\asp.net\\WebApplication3\\WebApplication3\\obj\\",
+        "outputPath": "E:\\SEM3\\asp.net\\ASP.NET\\WebApplication3\\WebApplication3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
