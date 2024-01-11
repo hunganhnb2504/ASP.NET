@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\WebApplication3",
-    "\\WebApplication3\\WebApplication3",
-    "\\WebApplication3\\WebApplication3\\Views",
-    "\\WebApplication3\\WebApplication3\\Views\\Shared"
+    ""
   ],
-  "SelectedNode": "\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\ContosoUniversity.sln",
   "PreviewInSolutionExplorer": false
 }
