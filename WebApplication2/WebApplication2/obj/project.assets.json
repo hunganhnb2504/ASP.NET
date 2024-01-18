@@ -7998,11 +7998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SEM3\\asp.net\\WebApplication2\\WebApplication2\\MvcMovie.csproj",
+      "projectUniqueName": "E:\\SEM3\\asp.net\\ASP.NET\\WebApplication2\\WebApplication2\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "E:\\SEM3\\asp.net\\WebApplication2\\WebApplication2\\MvcMovie.csproj",
+      "projectPath": "E:\\SEM3\\asp.net\\ASP.NET\\WebApplication2\\WebApplication2\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\SEM3\\asp.net\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "E:\\SEM3\\asp.net\\ASP.NET\\WebApplication2\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
