@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Ass.Employee>
+
+<h2>Báo cáo nhân viên trong Bộ phận</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên nhân viên</th>
+            <th>Mã nhân viên</th>
+            <th>Chức vụ</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.EmployeeId</td>
+                <td>@employee.EmployeeName</td>
+                <td>@employee.EmployeeCode</td>
+                <td>@employee.Rank</td>
+            </tr>
+        }
+    </tbody>
+</table>

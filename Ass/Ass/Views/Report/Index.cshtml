@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Ass.Department>
+
+<h2>Danh sách Bộ phận</h2>
+<ul>
+    @foreach (var department in Model)
+    {
+        <li>
+            @Html.ActionLink(department.DepartmentName, "EmployeeReport", new { departmentId = department.DepartmentId })
+        </li>
+    }
+</ul>
