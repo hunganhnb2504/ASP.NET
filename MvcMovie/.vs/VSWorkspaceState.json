@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MvcMovie",
+    "\\MvcMovie\\Controllers"
   ],
+  "SelectedNode": "\\MvcMovie\\Controllers\\NewsController.cs",
   "PreviewInSolutionExplorer": false
 }

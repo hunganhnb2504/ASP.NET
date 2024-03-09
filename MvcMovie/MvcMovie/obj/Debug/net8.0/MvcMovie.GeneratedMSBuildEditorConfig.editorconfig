@@ -20,7 +20,7 @@ build_property.RootNamespace = MvcMovie
 build_property.ProjectDir = E:\SEM3\asp.net\ASP.NET\MvcMovie\MvcMovie\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 8.0
+build_property.RazorLangVersion = 2.1
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = E:\SEM3\asp.net\ASP.NET\MvcMovie\MvcMovie
@@ -86,6 +86,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/SEM3/asp.net/ASP.NET/MvcMovie/MvcMovie/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/SEM3/asp.net/ASP.NET/MvcMovie/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -97,7 +101,3 @@ build_metadata.AdditionalFiles.CssScope =
 [E:/SEM3/asp.net/ASP.NET/MvcMovie/MvcMovie/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[E:/SEM3/asp.net/ASP.NET/MvcMovie/MvcMovie/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-0uvum7rpp4

@@ -3,6 +3,17 @@
     "mssql1": {
       "type": "mssql.local",
       "connectionId": "ConnectionStrings:MvcMovieContext"
+    },
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "mssql2": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ServiceLinker/locations/eastasia/connectors/ConnectionStringshunganh_D6DD053BFA",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/hunganhaa/databases/project",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:hunganh",
+      "dynamicId": null
     }
   }
 }
